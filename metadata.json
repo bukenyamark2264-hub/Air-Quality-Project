@@ -1,0 +1,6 @@
+{
+  "name": "AirQo Pollution Tracker",
+  "description": "Visualizing air quality data from AirQo nodes on Google Maps with heatmaps and clustering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
